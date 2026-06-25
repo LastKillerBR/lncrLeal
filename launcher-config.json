@@ -3,7 +3,7 @@
   "forge_version": "1.20.1-47.4.10",
   "login_title": "Bem-vindo, sobrevivente",
   "login_subtitle": "Entre e encare o apocalipse",
-  "play_button_label": "JOGAR",
+  "play_button_label": "PLAYAR",
   "announcement": {
     "text": "",
     "type": "info"
@@ -37,7 +37,7 @@
     "manifest_url": "",
     "github_tree_url": "https://api.github.com/repos/LastKillerBR/lncrLeal/git/trees/main?recursive=1",
     "github_raw_base_url": "https://raw.githubusercontent.com/LastKillerBR/lncrLeal/main",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "forge_version": "1.20.1-47.4.10"
   },
   "ram": {
