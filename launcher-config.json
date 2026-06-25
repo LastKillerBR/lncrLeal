@@ -3,7 +3,7 @@
   "forge_version": "1.20.1-47.4.10",
   "login_title": "Bem-vindo, sobrevivente",
   "login_subtitle": "Entre e encare o apocalipse",
-  "play_button_label": "GAMEAR",
+  "play_button_label": "Iniciar a Missão",
   "announcement": {
     "text": "",
     "type": "info"
@@ -43,7 +43,7 @@
   "ram": {
     "default_mb": 4096,
     "min_mb": 2048,
-    "max_mb": 16384
+    "max_mb": 20480
   },
   "theme": {
     "accent_color": "#10b981",
