@@ -3,7 +3,7 @@
   "forge_version": "1.20.1-47.4.10",
   "login_title": "Bem-vindo, sobrevivente",
   "login_subtitle": "Entre e encare o apocalipse",
-  "play_button_label": "PLAYAR",
+  "play_button_label": "GAMEAR",
   "announcement": {
     "text": "",
     "type": "info"
