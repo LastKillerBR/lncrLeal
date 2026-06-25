@@ -1,0 +1,878 @@
+{
+    "managed_dirs":  [
+                         "mods",
+                         "resourcepacks",
+                         "shaderpacks",
+                         "config",
+                         "kubejs",
+                         "scripts",
+                         "defaultconfigs"
+                     ],
+    "files":  [
+                  {
+                      "path":  "mods/AI-Improvements-1.20-0.5.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/AI-Improvements-1.20-0.5.2.jar",
+                      "sha256":  "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
+                  },
+                  {
+                      "path":  "mods/alltheleaks-1.1.1+1.20.1-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/alltheleaks-1.1.1%2B1.20.1-forge.jar",
+                      "sha256":  "7b8e945da294b745e6aed9f88f28e232a767e032d7c2b8137a8ef36421d9fb33"
+                  },
+                  {
+                      "path":  "mods/alternate_current-mc1.20-1.7.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/alternate_current-mc1.20-1.7.0.jar",
+                      "sha256":  "9dfa5365ef170323612d6ada820b7cac12e05135f00f16d0f627488426f59565"
+                  },
+                  {
+                      "path":  "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
+                      "sha256":  "4889e05ade9095a40886db99e33abbbc50ccd931ae5052db6180da896c68d75d"
+                  },
+                  {
+                      "path":  "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+                      "sha256":  "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b"
+                  },
+                  {
+                      "path":  "mods/apocalypticarsenal-1.0.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/apocalypticarsenal-1.0.1.jar",
+                      "sha256":  "e0fb932ad060e43b62da7cbbda0d31affadff00e7466bf1b7a0405e3f7bc39df"
+                  },
+                  {
+                      "path":  "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+                      "sha256":  "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+                  },
+                  {
+                      "path":  "mods/architectury-9.2.14-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/architectury-9.2.14-forge.jar",
+                      "sha256":  "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+                  },
+                  {
+                      "path":  "mods/AttributeFix-Forge-1.20.1-21.0.5.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/AttributeFix-Forge-1.20.1-21.0.5.jar",
+                      "sha256":  "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11"
+                  },
+                  {
+                      "path":  "mods/auudio_forge_1.0.3_MC_1.19.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/auudio_forge_1.0.3_MC_1.19.3.jar",
+                      "sha256":  "e4b77a49a41d8ec4015c5124b9b26ee89608dabf13829730f268c5be990dfe27"
+                  },
+                  {
+                      "path":  "mods/BadOptimizations-2.4.1-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/BadOptimizations-2.4.1-1.20.1.jar",
+                      "sha256":  "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8"
+                  },
+                  {
+                      "path":  "mods/badpackets-forge-0.4.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/badpackets-forge-0.4.3.jar",
+                      "sha256":  "b621a8e31727324a6010adbfb84fd4dbb78b3c7d87e5a9aebfb4e3223448f1e3"
+                  },
+                  {
+                      "path":  "mods/balm-forge-1.20.1-7.3.38-all.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/balm-forge-1.20.1-7.3.38-all.jar",
+                      "sha256":  "cbe8008218f0f574bc1f78b532cac5f978c33bf36ae2e14805340eab445fdb08"
+                  },
+                  {
+                      "path":  "mods/bbs-1.20.1-0.1.3-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/bbs-1.20.1-0.1.3-forge.jar",
+                      "sha256":  "a4d5e0ba72d5ef0fe1cb8415919d93201bc8725e2ad81b0eefb00bb7cd9bad97"
+                  },
+                  {
+                      "path":  "mods/bdo-1.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/bdo-1.0.0.jar",
+                      "sha256":  "ec7a63e701b0ec735410f6501da4914dd688491c7eb3d53b772002778b504e6a"
+                  },
+                  {
+                      "path":  "mods/betterbiomereblend-1.5.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/betterbiomereblend-1.5.3.jar",
+                      "sha256":  "76118a2916c342ae6926e22a0e697797b30a01a4850c9e2553d8c17652fd6809"
+                  },
+                  {
+                      "path":  "mods/bettercampfires-2.2.0+1.20.1-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/bettercampfires-2.2.0%2B1.20.1-forge.jar",
+                      "sha256":  "1dd5c29f9f3b2e520f8a3a003cc59ed881a66065284090c7250235c0e4ce3f15"
+                  },
+                  {
+                      "path":  "mods/betterchunkloading-1.20.1-5.4.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/betterchunkloading-1.20.1-5.4.jar",
+                      "sha256":  "86ae160bdd974452e0198e27d473d43b25d6df8b0abebee95d6381ae90339caa"
+                  },
+                  {
+                      "path":  "mods/block-rangefinder-2d62pkpe (2).jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/block-rangefinder-2d62pkpe%20(2).jar",
+                      "sha256":  "59ca51749f843875447918bb747435d5d88fe133d9a0be904e2bb970e0aa9f3d"
+                  },
+                  {
+                      "path":  "mods/blur-forge-3.1.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/blur-forge-3.1.1.jar",
+                      "sha256":  "7ab7248ecfc0fa9cf2e6dd7530732263e580d7a794a6ba999366af345e7c8e71"
+                  },
+                  {
+                      "path":  "mods/cameraoverhaul-1.1-1.20.4.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/cameraoverhaul-1.1-1.20.4.jar",
+                      "sha256":  "7c100448903e67a0ccc0854ba1773af0f8735b4dc06664cf85314f6e4f43fcd8"
+                  },
+                  {
+                      "path":  "mods/cerulean-forge-1.0.0-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/cerulean-forge-1.0.0-1.20.1.jar",
+                      "sha256":  "bb32352699823db6e37a3cc2fddbfecc1ae64bbbf2a0d0b422d9497f8760a0e9"
+                  },
+                  {
+                      "path":  "mods/chunksending-1.20.1-2.8.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/chunksending-1.20.1-2.8.jar",
+                      "sha256":  "54207d488545db565838bad97db7978800f5171e02c4ab7741b9ee5cd8ab5001"
+                  },
+                  {
+                      "path":  "mods/Chunky-1.3.146.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Chunky-1.3.146.jar",
+                      "sha256":  "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141"
+                  },
+                  {
+                      "path":  "mods/cleanswing-1.20-1.8.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/cleanswing-1.20-1.8.jar",
+                      "sha256":  "beb67f1af48b8ba77a8de1a48ea08d97a520a32b490bb4fd9a0da1dfd485a699"
+                  },
+                  {
+                      "path":  "mods/cloth-config-11.1.136-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/cloth-config-11.1.136-forge.jar",
+                      "sha256":  "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+                  },
+                  {
+                      "path":  "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+                      "sha256":  "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a"
+                  },
+                  {
+                      "path":  "mods/colorwheel-forge-1.2.9+mc1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/colorwheel-forge-1.2.9%2Bmc1.20.1.jar",
+                      "sha256":  "f1632bb755738e86413fad5da5148ef29a4cbafadb569f151f17590f9d6a89e1"
+                  },
+                  {
+                      "path":  "mods/colorwheel_patcher-forge-1.0.5+mc1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/colorwheel_patcher-forge-1.0.5%2Bmc1.20.1.jar",
+                      "sha256":  "77cf4d1602af673cd427dfbb21d359859ea10abcf2bff46da2602535a24e5c63"
+                  },
+                  {
+                      "path":  "mods/configured-forge-1.20.1-2.2.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/configured-forge-1.20.1-2.2.3.jar",
+                      "sha256":  "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f"
+                  },
+                  {
+                      "path":  "mods/connectivity-1.20.1-7.6.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/connectivity-1.20.1-7.6.jar",
+                      "sha256":  "fbfa83da5a6f5717d34068af5283ebbb9f9a2474482bc818f588cd1bdbc11acd"
+                  },
+                  {
+                      "path":  "mods/Connector-1.0.0-beta.48+1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Connector-1.0.0-beta.48%2B1.20.1.jar",
+                      "sha256":  "6226500de5d240d44244d8f35b402148667cc37a75d63d0e55800e049c82905c"
+                  },
+                  {
+                      "path":  "mods/ConnectorExtras-1.11.2+1.20.1-rea.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/ConnectorExtras-1.11.2%2B1.20.1-rea.jar",
+                      "sha256":  "9b8085f30ee9a5f7c02135450789e3ecb19afb6fd76c523075f5c496d5f63c94"
+                  },
+                  {
+                      "path":  "mods/constructiontc-forge-1.20.1-1.7.6-tc-relation-no-api.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/constructiontc-forge-1.20.1-1.7.6-tc-relation-no-api.jar",
+                      "sha256":  "d0f2d3d8571116563d4d9a7bc992da06d9da5ad1ea447e612119732360079be0"
+                  },
+                  {
+                      "path":  "mods/Controlling-forge-1.20.1-12.0.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Controlling-forge-1.20.1-12.0.2.jar",
+                      "sha256":  "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944"
+                  },
+                  {
+                      "path":  "mods/cookyourfood--mc1.20.1--1.11.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/cookyourfood--mc1.20.1--1.11.jar",
+                      "sha256":  "8feb934a5a0c4a74bcc609d20732112ab9280f3d39168f84f2bc4d4b31f55412"
+                  },
+                  {
+                      "path":  "mods/coroutil-forge-1.20.1-1.3.7.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/coroutil-forge-1.20.1-1.3.7.jar",
+                      "sha256":  "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f"
+                  },
+                  {
+                      "path":  "mods/CraftTweaker-forge-1.20.1-14.0.60.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/CraftTweaker-forge-1.20.1-14.0.60.jar",
+                      "sha256":  "6bf5887393268e88ec76dff95af4742277bf955d5130464d4ccf792aed9ab6e8"
+                  },
+                  {
+                      "path":  "mods/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+                      "sha256":  "3565ddea132785a044ddfca670610a870c976e52d47a957d0a5f1db78563d046"
+                  },
+                  {
+                      "path":  "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+                      "sha256":  "b91ca5cd028b1c919e28851b984edd61874d44ad8038cdeee87315d2656cb292"
+                  },
+                  {
+                      "path":  "mods/cupboard-1.20.1-3.7.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/cupboard-1.20.1-3.7.jar",
+                      "sha256":  "7c6069d42e3693dc4f80d06632f008fffe6f2507902dfca6c02bf035776ccaf3"
+                  },
+                  {
+                      "path":  "mods/curios-forge-5.14.1+1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/curios-forge-5.14.1%2B1.20.1.jar",
+                      "sha256":  "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+                  },
+                  {
+                      "path":  "mods/curiouslanterns-1.20.1-1.3.7.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/curiouslanterns-1.20.1-1.3.7.jar",
+                      "sha256":  "41231ccafb467b76fcf1ddd163925e66366844b190d72d4d36c7133903a25f92"
+                  },
+                  {
+                      "path":  "mods/damageindicator-2.2.1-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/damageindicator-2.2.1-1.20.1.jar",
+                      "sha256":  "fbdc33dd0af11788612bc8b25e28c292787841e6024b8d3aa0c4deca59f1325a"
+                  },
+                  {
+                      "path":  "mods/Data_Anchor-forge-1.20.1-1.0.0.20.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Data_Anchor-forge-1.20.1-1.0.0.20.jar",
+                      "sha256":  "fcbfd48ac170e044099492fb075a57039d806258559c1fb871925d40d1c6e396"
+                  },
+                  {
+                      "path":  "mods/defaultoptions-forge-1.20.1-18.0.5.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/defaultoptions-forge-1.20.1-18.0.5.jar",
+                      "sha256":  "28a34106f7dc91015bc202924593e7a375c9d4dd2681aec58f5abd06fa5eaeee"
+                  },
+                  {
+                      "path":  "mods/DeltaForce Melee Pack-0.2.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/DeltaForce%20Melee%20Pack-0.2.0.jar",
+                      "sha256":  "e0ccce77d58d0e480aedbebf50234c11ac19cc79016fab477232cb9cec4aaf0b"
+                  },
+                  {
+                      "path":  "mods/despawntweaks-forge-1.0.0-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/despawntweaks-forge-1.0.0-1.20.1.jar",
+                      "sha256":  "0b9b87b4995e0f6ee027759fa4e7210c52b6c10d88347dda8f59d21eb130017d"
+                  },
+                  {
+                      "path":  "mods/deuf-1.20.1-1.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/deuf-1.20.1-1.3.jar",
+                      "sha256":  "cc208a8eb0f9d3a4a4774ee190656954d93ae50b8d49886484cd955dbe8ec8b4"
+                  },
+                  {
+                      "path":  "mods/drippyloadingscreen_forge_3.1.2_MC_1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/drippyloadingscreen_forge_3.1.2_MC_1.20.1.jar",
+                      "sha256":  "fd548c4b9fd87f9389f74989ff5a41369d315b11826ad6637dafcf84abae50aa"
+                  },
+                  {
+                      "path":  "mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar",
+                      "sha256":  "b0ecdf3a0619208441062ceeebce79256223ac4e341844a09a6859170d671920"
+                  },
+                  {
+                      "path":  "mods/eatinganimation-1.20.1-5.1.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/eatinganimation-1.20.1-5.1.0.jar",
+                      "sha256":  "506ffc2e2bcc5709c8121382c5d0428ca642ceaeebe2a9169c9b0475a83c657c"
+                  },
+                  {
+                      "path":  "mods/EggsZombies-1.20.1-1.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/EggsZombies-1.20.1-1.0.jar",
+                      "sha256":  "621548ce15052bc1f622e4b95d9857e00d434f1de5a180fe7b58915f04c196f5"
+                  },
+                  {
+                      "path":  "mods/embeddium-0.3.31+mc1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/embeddium-0.3.31%2Bmc1.20.1.jar",
+                      "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+                  },
+                  {
+                      "path":  "mods/EnhancedVisuals_FORGE_v1.8.29_mc1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/EnhancedVisuals_FORGE_v1.8.29_mc1.20.1.jar",
+                      "sha256":  "355816d5a2fae14fe98089a359af5192477d78ccbbccf175d5dfc1a9552cbb73"
+                  },
+                  {
+                      "path":  "mods/entityculling-forge-1.10.5-mc1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/entityculling-forge-1.10.5-mc1.20.1.jar",
+                      "sha256":  "db0ee6aaf7e78d758885969e1d237e6efef07109195d4bb81fa06b304ddc12aa"
+                  },
+                  {
+                      "path":  "mods/entity_model_features-3.2.4-1.20.1-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/entity_model_features-3.2.4-1.20.1-forge.jar",
+                      "sha256":  "0984570913a154ef65ebca54ac797fec11721c5e24aeceeb285b8ca2f562b35e"
+                  },
+                  {
+                      "path":  "mods/entity_texture_features_1.20.1-forge-7.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/entity_texture_features_1.20.1-forge-7.1.jar",
+                      "sha256":  "96b70f55efc64e5149ff977f065385d1634b8cbb71be856a0c7261c62c92f18c"
+                  },
+                  {
+                      "path":  "mods/EuphoriaPatcher-1.9.3-r5.8.1-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/EuphoriaPatcher-1.9.3-r5.8.1-forge.jar",
+                      "sha256":  "be83a4041226e1c212131d871a7e143e7889a302b41d5580a8888621e4e17b0b"
+                  },
+                  {
+                      "path":  "mods/explosivos-1.0.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/explosivos-1.0.3.jar",
+                      "sha256":  "9d4ebf982df651caf79842defaa7a7a02b4e7c4e046388eb1755af6a7bfd37bc"
+                  },
+                  {
+                      "path":  "mods/extragore-1.20.1-5.2.3.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/extragore-1.20.1-5.2.3.1.jar",
+                      "sha256":  "c3d2547819d06deb51906e1abf7bf44e229f1d6e1dad274fa1c9ea1fe3950632"
+                  },
+                  {
+                      "path":  "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar",
+                      "sha256":  "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03"
+                  },
+                  {
+                      "path":  "mods/fallingleaves-1.20.1-2.1.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fallingleaves-1.20.1-2.1.2.jar",
+                      "sha256":  "6202d8241f01e21278fd5de644fd2e992824069f2cf0fc9dc6a74ab2218015b6"
+                  },
+                  {
+                      "path":  "mods/fancymenu_forge_3.9.3_MC_1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fancymenu_forge_3.9.3_MC_1.20.1.jar",
+                      "sha256":  "048a0cd7c15d8e4a0fda2022b6404e44718cd2c7f34b8f4fde7e1ca7e698bc9a"
+                  },
+                  {
+                      "path":  "mods/farsight-1.20.1-5.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/farsight-1.20.1-5.1.jar",
+                      "sha256":  "b09e25e8386117b2dd54bd5e8e06e62c86bc3ea4cc7bcbfad0cf48623f535c4b"
+                  },
+                  {
+                      "path":  "mods/farsighted-mobs-forge-1.1-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/farsighted-mobs-forge-1.1-1.20.1.jar",
+                      "sha256":  "792ea152d7c061de4c0fa3f6df87c284b65bd408905357c89850392878af7e88"
+                  },
+                  {
+                      "path":  "mods/fast-ip-ping-v1.0.11-mc1.20.4-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fast-ip-ping-v1.0.11-mc1.20.4-forge.jar",
+                      "sha256":  "eed881a62c0f0ebcf55e238ff34c5af32b7434b0e05c3dc783063198202b2be7"
+                  },
+                  {
+                      "path":  "mods/fastasyncworldsave-1.20.1-2.6.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fastasyncworldsave-1.20.1-2.6.jar",
+                      "sha256":  "31283f2d8ad9462cb9619cc1bd2e61afa24939b91dcf46c87d5495e3c61207f7"
+                  },
+                  {
+                      "path":  "mods/fasterrandom-5.1.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fasterrandom-5.1.0.jar",
+                      "sha256":  "40b326e9c98610b54be67751e618193e671cc907240d94a57085259b10cedf08"
+                  },
+                  {
+                      "path":  "mods/FastFurnace-1.20.1-8.0.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/FastFurnace-1.20.1-8.0.2.jar",
+                      "sha256":  "970c11c090e7a364e2e006aabb5e573f79901e710e97195334ee5802317776e8"
+                  },
+                  {
+                      "path":  "mods/fastpaintings-1.20-1.2.7.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fastpaintings-1.20-1.2.7.jar",
+                      "sha256":  "cb7e71c87abb53d9bf66836ff3a9036dde261594e25ecbe3e140fe3153ce4358"
+                  },
+                  {
+                      "path":  "mods/FastSuite-1.20.1-5.1.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/FastSuite-1.20.1-5.1.2.jar",
+                      "sha256":  "5e05cb3ce05785a0061a41b7a83443074a6c26dd7d9db75c453fa2487481d54e"
+                  },
+                  {
+                      "path":  "mods/ferritecore-6.0.1-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/ferritecore-6.0.1-forge.jar",
+                      "sha256":  "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+                  },
+                  {
+                      "path":  "mods/FpsReducer2-forge-1.20.1-2.5.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/FpsReducer2-forge-1.20.1-2.5.1.jar",
+                      "sha256":  "997f034210e0fca20fa5a0e6ddd370c5444854fc97e69910161104160cea41ce"
+                  },
+                  {
+                      "path":  "mods/framework-forge-1.20.1-0.8.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/framework-forge-1.20.1-0.8.0.jar",
+                      "sha256":  "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
+                  },
+                  {
+                      "path":  "mods/FreeLook-forge-1.20.4-1.5.3.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/FreeLook-forge-1.20.4-1.5.3.1.jar",
+                      "sha256":  "06a59efa18c0ccae61235be924ba9dc61e69454ad8f205d1ac851b52cf48f308"
+                  },
+                  {
+                      "path":  "mods/fzzy_config-0.7.6+1.20.1+forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fzzy_config-0.7.6%2B1.20.1%2Bforge.jar",
+                      "sha256":  "d39cd5d6b23b86468937e306776dc70faba900072c7e359ce9348d8a3c26982e"
+                  },
+                  {
+                      "path":  "mods/geckolib-forge-1.20.1-4.8.4.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/geckolib-forge-1.20.1-4.8.4.jar",
+                      "sha256":  "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
+                  },
+                  {
+                      "path":  "mods/geckolib_armor_overlay_fix-1.0.5.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/geckolib_armor_overlay_fix-1.0.5.jar",
+                      "sha256":  "1363ae4f2ac173abcafa6bf87953eea0b0d7688b6da3026a56efcc1663c894eb"
+                  },
+                  {
+                      "path":  "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+                      "sha256":  "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"
+                  },
+                  {
+                      "path":  "mods/gml-4.0.11-all.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/gml-4.0.11-all.jar",
+                      "sha256":  "4f1014d242c944771d798206c2d38d44d9d77148c4bb7a1f141aa405e7afd9d4"
+                  },
+                  {
+                      "path":  "mods/guccivuitton-1.20.1-0.2.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/guccivuitton-1.20.1-0.2.2.jar",
+                      "sha256":  "9247e55f20acf8ec89af56d4ad45fcc8fe08bee9f7189421ef31835f3516bd57"
+                  },
+                  {
+                      "path":  "mods/Gunfire Overhaul-0.1.6-a.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Gunfire%20Overhaul-0.1.6-a.jar",
+                      "sha256":  "dab997ea3593b110f8220abd4a90038e0a431cac5900a6ec60f6f2212fca9aa6"
+                  },
+                  {
+                      "path":  "mods/hardernaturalhealing-1.20-46.1.14.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/hardernaturalhealing-1.20-46.1.14.jar",
+                      "sha256":  "e7b925eb7e1e7491ab5e7003947b44abd68a632b343afa47148042969b81626f"
+                  },
+                  {
+                      "path":  "mods/ID-1.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/ID-1.0.0.jar",
+                      "sha256":  "a605e662e07d52244be6f43b700edb356704e90e644a3f06a7a699cdbb050d69"
+                  },
+                  {
+                      "path":  "mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/ImmediatelyFast-Forge-1.5.4%2B1.20.4.jar",
+                      "sha256":  "da781a31b2c8d8a845ed48c89b6463f1df3f2c655de10d8d4f5bed8123ff68a8"
+                  },
+                  {
+                      "path":  "mods/immersive_ballistic-1.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/immersive_ballistic-1.3.jar",
+                      "sha256":  "b1d037714bb106e02476b97976e5d8245b321b5541a97cc4c06f2d24b542539e"
+                  },
+                  {
+                      "path":  "mods/immersive_optimization-forge-1.20.1-0.1.6.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/immersive_optimization-forge-1.20.1-0.1.6.jar",
+                      "sha256":  "bcd4f485f83652c4e014dc8f0dfaea576c83a237bb267dcce21885b4f054bcec"
+                  },
+                  {
+                      "path":  "mods/incontrol-1.20-9.4.6.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/incontrol-1.20-9.4.6.jar",
+                      "sha256":  "85d64d0f81f6eb6e1e2fa2a97a0aeabcea9e371498c3853b12c3697891e57f2c"
+                  },
+                  {
+                      "path":  "mods/InvMove-0.9.0+1.20.1-Forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/InvMove-0.9.0%2B1.20.1-Forge.jar",
+                      "sha256":  "cb2ebdfd8e70b959ae0b63f6e327496b5a94c5ef96a9bfc2996e8bcc5e4e2c07"
+                  },
+                  {
+                      "path":  "mods/Kiwi-1.20.1-Forge-11.10.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Kiwi-1.20.1-Forge-11.10.2.jar",
+                      "sha256":  "cbe7664e7502c199526df0882bba4fa34157cb9a4f016ed0b975ed221940665d"
+                  },
+                  {
+                      "path":  "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+                      "sha256":  "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"
+                  },
+                  {
+                      "path":  "mods/kotlinforforge-4.12.0-all.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/kotlinforforge-4.12.0-all.jar",
+                      "sha256":  "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+                  },
+                  {
+                      "path":  "mods/Krypton Reno-forge-1.20.1-26.1.1-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Krypton%20Reno-forge-1.20.1-26.1.1-1.20.1.jar",
+                      "sha256":  "e0f6da577a9b4b4089a5dfa6e89f56483d7c0e8290c8339b4ac598ea3f09e6ce"
+                  },
+                  {
+                      "path":  "mods/Ksyxis-1.4.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Ksyxis-1.4.3.jar",
+                      "sha256":  "23c8c5993004f0584eb27b19b4397b7aa8833f41b8f2d1ea201ee54a60f964b9"
+                  },
+                  {
+                      "path":  "mods/kubejs-forge-2001.6.5-build.26.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/kubejs-forge-2001.6.5-build.26.jar",
+                      "sha256":  "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb"
+                  },
+                  {
+                      "path":  "mods/leaky-1.20.1-2.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/leaky-1.20.1-2.3.jar",
+                      "sha256":  "0d28b10d6b6f41750e3cea8a0764ceb7d5a919535e2c2630c3ba060005752361"
+                  },
+                  {
+                      "path":  "mods/libIPN-forge-1.20-4.0.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/libIPN-forge-1.20-4.0.2.jar",
+                      "sha256":  "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
+                  },
+                  {
+                      "path":  "mods/localizedfishingtables-1.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/localizedfishingtables-1.1.jar",
+                      "sha256":  "22901723412048faf1b62393a1ad3a2093c1f6f0b94fbebc82bea3a38973017c"
+                  },
+                  {
+                      "path":  "mods/LongNbtKiller-Forge-1.20.1-1.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/LongNbtKiller-Forge-1.20.1-1.0.0.jar",
+                      "sha256":  "8ca29e5b9707fcad074c8419070ec78873f31460b7e5467062f881a8279aa535"
+                  },
+                  {
+                      "path":  "mods/lradd-1.20.1-0.3.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/lradd-1.20.1-0.3.0.jar",
+                      "sha256":  "4cf60b30e843ecd92b5ff05bcfa12a89754e7ad947b6d3ea8485eb340d5f1783"
+                  },
+                  {
+                      "path":  "mods/lrtactical-1.20.1-0.3.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/lrtactical-1.20.1-0.3.0.jar",
+                      "sha256":  "98c86c584d56adba158343edf9090d18bf86bb6a06dc54488bbfdd183d0a2556"
+                  },
+                  {
+                      "path":  "mods/matmos_tct-7.5-forge-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/matmos_tct-7.5-forge-1.20.1.jar",
+                      "sha256":  "6d227e4b32ff63672dcd8cc0b6048fc1b8f93596c64d0e662c0ec94d85ee7301"
+                  },
+                  {
+                      "path":  "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+                      "sha256":  "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
+                  },
+                  {
+                      "path":  "mods/mixintracereforged-forge-1.0.0-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/mixintracereforged-forge-1.0.0-1.20.1.jar",
+                      "sha256":  "f3ea75ede08479db2b6424b4a3dbcb089908b6cc41c26b82525ea9db642fdcf8"
+                  },
+                  {
+                      "path":  "mods/modernfix-forge-5.27.51+mc1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/modernfix-forge-5.27.51%2Bmc1.20.1.jar",
+                      "sha256":  "ec73870ccd4f0f931d7d619a3e8879f32a647b4bf1d4a32fa76c390c6537d111"
+                  },
+                  {
+                      "path":  "mods/moonlight-1.20-2.16.34-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/moonlight-1.20-2.16.34-forge.jar",
+                      "sha256":  "007c05ae799417ca7aa26669c5d97be9dface5b6fc27aca4ca8031cafe4ddd6e"
+                  },
+                  {
+                      "path":  "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+                      "sha256":  "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
+                  },
+                  {
+                      "path":  "mods/MyServerIsCompatible-1.20-1.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/MyServerIsCompatible-1.20-1.0.jar",
+                      "sha256":  "74bd64fe43eefa4a81006184b7558ceff20f6579597c0c35baeb44e70cfaaf51"
+                  },
+                  {
+                      "path":  "mods/Neruina-2.1.2-forge+1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Neruina-2.1.2-forge%2B1.20.1.jar",
+                      "sha256":  "668f473decda11ae55facd47248476bfbaac428fd90661a28b48b7c262d1ab36"
+                  },
+                  {
+                      "path":  "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+                      "sha256":  "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"
+                  },
+                  {
+                      "path":  "mods/nohurtflash-1.20.1-0.1.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/nohurtflash-1.20.1-0.1.2.jar",
+                      "sha256":  "a0ca254225410fd9a49d517c615a98b9665fa46a6bde6cc57884dd7059120031"
+                  },
+                  {
+                      "path":  "mods/nopoof-1.20.1-1.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/nopoof-1.20.1-1.0.0.jar",
+                      "sha256":  "42a1a44ab7ce1f23c03b5e1b2e4697087788cf1c9f95d95066d0d3ad663ac580"
+                  },
+                  {
+                      "path":  "mods/nostartupmessages-1.0.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/nostartupmessages-1.0.1.jar",
+                      "sha256":  "387d0fdd749db39846d5b81dffe22ea3039def187eccbb8eed36c86e958cbb5c"
+                  },
+                  {
+                      "path":  "mods/oculus-mc1.20.1-1.8.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/oculus-mc1.20.1-1.8.0.jar",
+                      "sha256":  "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
+                  },
+                  {
+                      "path":  "mods/OnlyLooking-1.20.1-4.1.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/OnlyLooking-1.20.1-4.1.1.jar",
+                      "sha256":  "0cfefa0f9f619d3505ac99e0d7e7c596851731a10a6e866a60b90b53ba9a5cbd"
+                  },
+                  {
+                      "path":  "mods/particle_core-0.3.3+1.20.1+forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/particle_core-0.3.3%2B1.20.1%2Bforge.jar",
+                      "sha256":  "bd4023e4618333f3e6020a7d6f4db3ae7e8fe41b39a43f47e6a1da4fbd80bc1b"
+                  },
+                  {
+                      "path":  "mods/Placebo-1.20.1-8.6.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Placebo-1.20.1-8.6.3.jar",
+                      "sha256":  "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
+                  },
+                  {
+                      "path":  "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+                      "sha256":  "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+                  },
+                  {
+                      "path":  "mods/Pretty Rain-1.20.1-Forge-1.1.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Pretty%20Rain-1.20.1-Forge-1.1.3.jar",
+                      "sha256":  "4d61ef6e1d1b4a3fb4acfc876fe0cfe14d56afe2097f952332c8c23838096ddf"
+                  },
+                  {
+                      "path":  "mods/Prism-1.20.1-forge-1.0.5.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Prism-1.20.1-forge-1.0.5.jar",
+                      "sha256":  "b1a576f920faeb2175f693e3ee7ba9e5ff0bcf0e404da29f1824ea3c66efd240"
+                  },
+                  {
+                      "path":  "mods/protect-mobs-from-daylight-forge-1.0.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/protect-mobs-from-daylight-forge-1.0.1.jar",
+                      "sha256":  "4e9966fb5f9d82cd711477190d9db1c24a7b6f1283daeb251da7af8d40e5a61e"
+                  },
+                  {
+                      "path":  "mods/radiantgear-forge-2.2.0+1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/radiantgear-forge-2.2.0%2B1.20.1.jar",
+                      "sha256":  "2a6c7e0825c69bd38dc1bb1ce8a8d6b097cac835e16e46afaa0f207fb819bb96"
+                  },
+                  {
+                      "path":  "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar",
+                      "sha256":  "b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0"
+                  },
+                  {
+                      "path":  "mods/Rain should extinguish campfires-forge-1.20.1-2.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Rain%20should%20extinguish%20campfires-forge-1.20.1-2.0.0.jar",
+                      "sha256":  "30587c6635d2bae8580e4d3e3a9dd452c44a27aaad114f6588c02d7189a383cc"
+                  },
+                  {
+                      "path":  "mods/rangefinder-1.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/rangefinder-1.0.0.jar",
+                      "sha256":  "d8fce98270652e60ddad15b817b280777c4a803938e7c316a58e37e80a7e47d3"
+                  },
+                  {
+                      "path":  "mods/recipeessentials-1.20.1-4.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/recipeessentials-1.20.1-4.0.jar",
+                      "sha256":  "eb0ff236212f83cfb04b39c72678282a1b964a5cfcb0cecb314e953f03347f14"
+                  },
+                  {
+                      "path":  "mods/redirected-forge-1.0.0-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/redirected-forge-1.0.0-1.20.1.jar",
+                      "sha256":  "f8968454baec53f196404fc8b01b79bd9749da35c031575babe091f2a7241e88"
+                  },
+                  {
+                      "path":  "mods/remove-terralith-intro-message-1.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/remove-terralith-intro-message-1.1.jar",
+                      "sha256":  "15412603b8090e1ca79a2b5e52b03d2f441a6e65d5729b525f991a1d2acd5498"
+                  },
+                  {
+                      "path":  "mods/remove_third_person-1.0-1.20.1-1.20.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/remove_third_person-1.0-1.20.1-1.20.2.jar",
+                      "sha256":  "e5107cce7a05f597b77a72e20da944cfa30a7ce9c6c2ce8e6eaa837db7fcd3f4"
+                  },
+                  {
+                      "path":  "mods/restApi-0.10.1-1.20.1-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/restApi-0.10.1-1.20.1-forge.jar",
+                      "sha256":  "751a23e2898d8d04bf5e08a81a36a6399303b3d50d5089449b20f6c89b912990"
+                  },
+                  {
+                      "path":  "mods/rhino-forge-2001.2.3-build.10.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/rhino-forge-2001.2.3-build.10.jar",
+                      "sha256":  "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
+                  },
+                  {
+                      "path":  "mods/rks_simple_airdrops-2.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/rks_simple_airdrops-2.0.0.jar",
+                      "sha256":  "a212002dc08b0f5b809e1dc1d2458e9349c7741fcd129a477b01a956a7d8cc88"
+                  },
+                  {
+                      "path":  "mods/saturn-mc1.20.1-0.1.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/saturn-mc1.20.1-0.1.3.jar",
+                      "sha256":  "7e6dcc7c2b0db19ec2f965fac91a49e13dcc611f2d86f6bb56d7d68da901aaf8"
+                  },
+                  {
+                      "path":  "mods/Searchables-forge-1.20.1-1.0.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Searchables-forge-1.20.1-1.0.3.jar",
+                      "sha256":  "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576"
+                  },
+                  {
+                      "path":  "mods/seguranca-1.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/seguranca-1.0.0.jar",
+                      "sha256":  "e15fe387411eec0e899f941afd12ccd3cc0339c78ba9f3ebebf7e8d3f0412486"
+                  },
+                  {
+                      "path":  "mods/sittingplus-2.0.5-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/sittingplus-2.0.5-1.20.1.jar",
+                      "sha256":  "c9b15d83356e2ef738fce5498fc4ad9a33504ba80a608cd089c343dd5a43ec12"
+                  },
+                  {
+                      "path":  "mods/slowbabyzombie-forge-1.20.1-1.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/slowbabyzombie-forge-1.20.1-1.0.0.jar",
+                      "sha256":  "8a119549bc53789872deebc9f6618e85b82049ab34f95c75f4e1e8d69eaf6fb3"
+                  },
+                  {
+                      "path":  "mods/smoothchunk-1.20.1-4.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/smoothchunk-1.20.1-4.1.jar",
+                      "sha256":  "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
+                  },
+                  {
+                      "path":  "mods/snowundertrees-1.20.1-1.4.12.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/snowundertrees-1.20.1-1.4.12.jar",
+                      "sha256":  "5c310b07efe17072d4bd87b85a4d11b086af6d4c30217936033954e6087c4f09"
+                  },
+                  {
+                      "path":  "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+                      "sha256":  "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4"
+                  },
+                  {
+                      "path":  "mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+                      "sha256":  "ce9a13c5f07e350f9c0b86af9e096aedb91cbc72996e59646da61ec724f1e4df"
+                  },
+                  {
+                      "path":  "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+                      "sha256":  "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415"
+                  },
+                  {
+                      "path":  "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+                      "sha256":  "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c"
+                  },
+                  {
+                      "path":  "mods/soundofrain-0.6.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/soundofrain-0.6.0.jar",
+                      "sha256":  "4a2a9dd3c74390bc8e7b8fb58d25ffe612092a94c684980fbfa4e9c1bc7981ef"
+                  },
+                  {
+                      "path":  "mods/spark-1.10.53-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/spark-1.10.53-forge.jar",
+                      "sha256":  "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed"
+                  },
+                  {
+                      "path":  "mods/survival_instinct-1.0.2-forge-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/survival_instinct-1.0.2-forge-1.20.1.jar",
+                      "sha256":  "9f73d8ec5fcf6bb6641f46c0484c63dbfc4ed883c73f7dbbad38de8fcc753e62"
+                  },
+                  {
+                      "path":  "mods/tacz-1.20.1-1.1.8-hotfix.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/tacz-1.20.1-1.1.8-hotfix.jar",
+                      "sha256":  "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77"
+                  },
+                  {
+                      "path":  "mods/tacz-tweaks-2.14.1-all.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/tacz-tweaks-2.14.1-all.jar",
+                      "sha256":  "ecc15cedbae26ff2620fa3ce7614f1bbd6325e7317c412945a9a3a109aecb21a"
+                  },
+                  {
+                      "path":  "mods/taczadditions-1.20.1-1.0.4.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/taczadditions-1.20.1-1.0.4.jar",
+                      "sha256":  "38830d4f996b4b6ef2e135b070470602f2800b8535d47b05ece27bb42d2e2458"
+                  },
+                  {
+                      "path":  "mods/taczaddon.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/taczaddon.jar",
+                      "sha256":  "627250796c74e236042eee63c26e479197840dc93feeb800eb856b080925b9e8"
+                  },
+                  {
+                      "path":  "mods/taczammoquery-1.20.1-1.0.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/taczammoquery-1.20.1-1.0.0.jar",
+                      "sha256":  "4fbc312eeaa6cd4d5dc38628f1fe9e0548308cc1795370639dba43351f5c5e09"
+                  },
+                  {
+                      "path":  "mods/tacz_optimization-1.0.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/tacz_optimization-1.0.1.jar",
+                      "sha256":  "147eb74d95979274f6603f64b2ca016c1aab1aa3189908c99e078b2d21b31fc6"
+                  },
+                  {
+                      "path":  "mods/tacz_x_guns_lights_addon-2.4.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/tacz_x_guns_lights_addon-2.4.3.jar",
+                      "sha256":  "c8d92bb0ae9a2871e59d096d499139cc72ce3122d218a0a2497dd5e461fc5a0a"
+                  },
+                  {
+                      "path":  "mods/TCTcore-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/TCTcore-1.20.1.jar",
+                      "sha256":  "03d0b937f1615a9b9b333e7d889ffd16da587e720e6dba930c855bc0a99c413e"
+                  },
+                  {
+                      "path":  "mods/TGR_PTBR_Apocalipse_Nomes_v3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/TGR_PTBR_Apocalipse_Nomes_v3.jar",
+                      "sha256":  "174b45d4f19b448c349ec58b82e1664dbc246e868f672ede93065fe8183d6736"
+                  },
+                  {
+                      "path":  "mods/ThirstWasTaken-1.20.1-1.4.0.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/ThirstWasTaken-1.20.1-1.4.0.jar",
+                      "sha256":  "803cc26575fd2051127a81ed7569bd81695086401961180bb836fff311afb1ae"
+                  },
+                  {
+                      "path":  "mods/ToastControl-1.20.1-8.0.3.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/ToastControl-1.20.1-8.0.3.jar",
+                      "sha256":  "e9923900cabbc12ffde7cc36113936f24b773bb33b22c19e4109cca52fc55ad6"
+                  },
+                  {
+                      "path":  "mods/toofast-1.20-0.4.3.5.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/toofast-1.20-0.4.3.5.jar",
+                      "sha256":  "5dc0fc5687c43ad9cec522ebb6eda9d9c84edc5b0c401721e91450b1ef57de5a"
+                  },
+                  {
+                      "path":  "mods/txnilib-forge-1.0.24-1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/txnilib-forge-1.0.24-1.20.1.jar",
+                      "sha256":  "71ca69345ef763903213e0b0db3c9c07d2a090ad311d1de66c31798a813a9d0e"
+                  },
+                  {
+                      "path":  "mods/visuality-forge-2.0.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/visuality-forge-2.0.2.jar",
+                      "sha256":  "336a9f11f9d55f2d600c56ec1a8dcba93b80534fc749b143096e129c9c9c985d"
+                  },
+                  {
+                      "path":  "mods/voicechat-forge-1.20.1-2.6.20.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/voicechat-forge-1.20.1-2.6.20.jar",
+                      "sha256":  "6267a07e367ea4aa37b3c09f30aeb50148e22e6a28fc885c0c5da4f7fdc189ee"
+                  },
+                  {
+                      "path":  "mods/Voiceless Survival-forge-1.20.1-2.0.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/Voiceless%20Survival-forge-1.20.1-2.0.2.jar",
+                      "sha256":  "92709983204f22b4806696c298505ef350cc5622d5af963ffc749012c3a63a14"
+                  },
+                  {
+                      "path":  "mods/waypoint-sleeping-bag-irext4lg.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/waypoint-sleeping-bag-irext4lg.jar",
+                      "sha256":  "5d8cdb808069c0ae1d8c2fa929069ca964a0bfc6f0f4c5819dc10e6f650bb9ba"
+                  },
+                  {
+                      "path":  "mods/xaeroworldmap-forge-1.20.1-1.41.2.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/xaeroworldmap-forge-1.20.1-1.41.2.jar",
+                      "sha256":  "abe167275d74585112deb55ce9a09f1472f08d7e8cfde84776c99db2584d4bda"
+                  },
+                  {
+                      "path":  "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
+                      "sha256":  "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+                  },
+                  {
+                      "path":  "mods/.connector/block-rangefinder-2d62pkpe (2)_mapped_srg_1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/block-rangefinder-2d62pkpe%20(2)_mapped_srg_1.20.1.jar",
+                      "sha256":  "17777c08c5aab68965ed6976b3ba1c1b4f6108564ee3d306168be00ad8e5e172"
+                  },
+                  {
+                      "path":  "mods/.connector/block-rangefinder-2d62pkpe (2)_mapped_srg_1.20.1.jar.input",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/block-rangefinder-2d62pkpe%20(2)_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "b54b0a435442310c52f059589008bd92c42ad9d57c581c488497a5bf8bede6fc"
+                  },
+                  {
+                      "path":  "mods/.connector/fasterrandom-5.1.0_mapped_srg_1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fasterrandom-5.1.0_mapped_srg_1.20.1.jar",
+                      "sha256":  "ee2a9c587b19b99e04d2d0fa243c232396861d6be233a856c8f49c7fbb303e53"
+                  },
+                  {
+                      "path":  "mods/.connector/fasterrandom-5.1.0_mapped_srg_1.20.1.jar.input",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/fasterrandom-5.1.0_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "360eb5fb55902cfde4f4471591902a8e6c2c710b0e1842e79c6436022b542d5d"
+                  },
+                  {
+                      "path":  "mods/.connector/waypoint-sleeping-bag-irext4lg_mapped_srg_1.20.1.jar",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/waypoint-sleeping-bag-irext4lg_mapped_srg_1.20.1.jar",
+                      "sha256":  "accd8fb1bacd1ea7c265f2a9bac66c378d681675a5beaa30e05a7a57b38c9ac2"
+                  },
+                  {
+                      "path":  "mods/.connector/waypoint-sleeping-bag-irext4lg_mapped_srg_1.20.1.jar.input",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/mods/waypoint-sleeping-bag-irext4lg_mapped_srg_1.20.1.jar.input",
+                      "sha256":  "080e7ef9cfeae00ef043b1ebfb8c5170defb079175894cb9f61a6b4f739d7fed"
+                  },
+                  {
+                      "path":  "config/COLOQUE-OS-CONFIGS-AQUI.txt",
+                      "url":  "https://github.com/LastKillerBR/lncrLeal/tree/main/modpack/config/config/COLOQUE-OS-CONFIGS-AQUI.txt",
+                      "sha256":  "bc048f93329967dd6b6a28283e0e08e69e78606a7438dbdce79b95c6a6a5d0e2"
+                  }
+              ]
+}
